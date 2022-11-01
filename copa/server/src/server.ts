@@ -20,7 +20,7 @@ async function bootstrap() {
         return { count };
     });
 
-    await app.listen({ port: 3000, host: "0.0.0" });
+    await app.listen({ port: 3333, host: "0.0.0" });
 }
 
 bootstrap();
