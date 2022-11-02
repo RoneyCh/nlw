@@ -25,9 +25,7 @@
     "@babel/core": "^7.12.9"
   },
   "overrides": {
-    "react": {
-      "version": "18.0.0"
-    }
+    "react": "18.0.0"
   },
   "private": true
 }
