@@ -1,4 +1,4 @@
-import { Center, NativeBaseProvider, StatusBar } from 'native-base';
+import { NativeBaseProvider, StatusBar } from 'native-base';
 import { THEME } from './src/styles/theme';
 import { Roboto_400Regular, Roboto_700Bold, Roboto_500Medium, useFonts } from '@expo-google-fonts/roboto';
 import { Loading } from './src/components/Loading';
